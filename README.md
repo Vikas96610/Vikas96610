@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m a student at Shri Jayachamarajendra College of Engineering (SJCE), JSS STU, Mysuru<br>👀 Interested in Full-Stack Web Development and building my expertise as a Java Developer<br>☁️ Currently learning AI/ML, while focusing on scalable backend systems & performance optimization<br>🔗 LinkedIn: www.linkedin.com/in/vikas-m04<br>📧 Reach me at: vikasmnmohan@gmail.com<br>🧠 Always curious to explore new technologies, tools, and industry trends
+🎓 I’m a student at Shri Jayachamarajendra College of Engineering (SJCE), JSS STU, Mysuru<br>👀 Interested in Full-Stack Web Development and building my expertise as a Java Developer<br>☁️ Currently learning AI/ML, while focusing on scalable backend systems & performance optimization<br>📧 Reach me at: vikasmnmohan@gmail.com<br>🧠 Always curious to explore new technologies, tools, and industry trends
 
 
 ## 🌐 Socials:
